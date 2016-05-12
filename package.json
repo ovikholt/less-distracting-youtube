@@ -1,0 +1,20 @@
+{
+  "name": "less-distractive-youtube",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "directories": {
+    "src": "src",
+    "build": "build"
+  },
+  "repository": "",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "ovikholt@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "stylus": "^0.53.0"
+  }
+}

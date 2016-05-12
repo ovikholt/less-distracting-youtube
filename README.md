@@ -1,0 +1,1 @@
+Hides the "related videos" sidebar (until you click to show it).
