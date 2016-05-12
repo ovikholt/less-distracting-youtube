@@ -10,9 +10,11 @@ cake watch
 Installation:
 
     git clone git://github.com/ovikholt/less-distracting-youtube
-    Open chrome://extensions
-    Click `Load unpacked extension...`
-    Navigate to the cloned directory
+    Open chrome://extensions in your Chrome browser.
+    "Developer mode" checkbox must be checked.
+    Click `Load unpacked extension...`.
+    Navigate to the cloned directory and press OK.
+    Open a Youtube video! :)
 
 Suggestions appreciated.
 
