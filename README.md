@@ -7,4 +7,13 @@ npm install -g cake
 cake watch
 ```
 
+Installation:
+
+    git clone git://github.com/ovikholt/less-distracting-youtube
+    Open chrome://extensions
+    Click `Load unpacked extension...`
+    Navigate to the cloned directory
+
+Suggestions appreciated.
+
 ![alt tag](images/yt.png)
