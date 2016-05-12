@@ -13,6 +13,7 @@
     },
     "content_scripts": [ {
         "run_at": "document_end",
+        "css": ["css/style.css"],
         "js": ["lib/youtube.js"],
         "matches": ["https://www.youtube.com/*"]
       }
