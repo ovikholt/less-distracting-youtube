@@ -6,10 +6,9 @@
     "permissions": [
       "https://www.youtube.com/*"
     ],
-    "icons": { "128": "yt2.png" },
+    "icons": { "128": "images/yt2.png" },
     "homepage_url": "https://github.com/ovikholt/less-distracting-youtube",
     "background": {
-      "persistent": false,
       "scripts": [ ]
     },
     "content_scripts": [ {
@@ -17,5 +16,5 @@
         "js": ["lib/youtube.js"],
         "matches": ["https://www.youtube.com/*"]
       }
-    ],
+    ]
 }
